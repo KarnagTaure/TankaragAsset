@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0aca841ba495db346b66ffb2c223adb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tankAmarillo: {fileID: 2100000, guid: 52824cddc1486e04d8b8ca053fb78fbe, type: 2}
+  - tankRojo: {fileID: 2100000, guid: 6ad089a42ceeadd4fb055d1c18a9c2ff, type: 2}
+  - tankAzul: {fileID: 2100000, guid: d78bb7b1995fa054c903f98a0931649c, type: 2}
+  - tankVerde: {fileID: 2100000, guid: 30b59686ba63333458c1b2bbfaab3f1e, type: 2}
+  - tank: {fileID: 6680373686544803371, guid: 54a36b61365184e4bb6a86a7aca20e55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

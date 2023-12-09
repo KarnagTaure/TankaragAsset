@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06f0ec2fffde09f42bd99c99acd79cbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item1: {fileID: 1744407837024274, guid: 2f3e352268bf84b45acf0d56b0b89518, type: 3}
+  - item2: {fileID: 107744, guid: 0782c4fdae5f1624ba26300a1dc7a0a7, type: 3}
+  - item3: {fileID: 148032, guid: a8a06204dcfa9784b86eba87c2e0a1a2, type: 3}
+  - barraVida: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
